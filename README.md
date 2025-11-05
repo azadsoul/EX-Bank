@@ -62,7 +62,3 @@ npm run dev
 ```
 
 Otherwise, simply open the index.html file in your browser.
-
-## Author
-
-Developed by AmirHossein MalekFarnoud.
